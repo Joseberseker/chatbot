@@ -1,0 +1,106 @@
+{
+	"contenido":[
+		{
+			"tag":"saludo",
+			"patrones":[
+				"Hola",
+				"Buenas",
+				"Que tal",
+				"Que hay"
+			],
+			"respuestas":[
+				"En que puedo ayudarle?",
+				"Hola que tal",
+				"Un gusto de verte",
+				"Como te va",
+				"Como puedo ayudarte?",
+				"Que tal"
+			]
+		},
+
+		{
+			"tag":"despedida",
+			"patrones":[
+				"Adios",
+				"Hasta pronto",
+				"Hasta la próxima",
+				"Chao"
+			],
+			"respuestas":[
+				"Adios",
+				"Hasta pronto",
+				"Hasta la próxima",
+				"Chao"
+			]
+		},
+
+		{
+			"tag":"opciones",
+			"patrones":[
+				"Opciones",
+				"Que puedes hacer?",
+				"Que información me puedes brindar",
+				"En que me puedes ayudar?",
+				"Como me puedes ayudar?",
+				"En que me puedes guiar?",
+				"Que información me puedes ofrecer",
+				"Que datos me puedes dar?",
+				"ayuda",
+				"que mas me puedes decir?"
+
+			],
+			"respuestas":[
+				"Te puedo decir el precio de las carreras que oferta CECAR",
+				"Te puedo decir la ubicación de lo que buscas",
+				"Te puedo orientar en los procesos académicos",
+				"Te puedo dar información acerca de la Corporación",
+				"Te puedo decir los programas académicos",
+				"Te puedo decir las especializaciones que puedes hacer",
+				"Te puedo decir las modalidades de estudio"
+				
+
+			]
+
+		},
+
+		{
+			"tag":"agradecimiento",
+			"patrones":[
+				"Gracias",
+				"Muchas gracias",
+				"Increible trabajo",
+				"Muchas gracias por ayudarme"
+			],
+			"respuestas":[
+				"Encantado de haberte ayudado",
+				"Feliz de haberte ayudado",
+				"No hay de que",
+				"Con mucho gusto",
+				"Un placer de haberte ayudado"
+
+			]
+
+		},
+
+		{
+			"tag":"precio_sistemas",
+			"patrones":[
+				"Que precio tiene la carrera de ingeniería de sistemas?",
+				"Cuanto cuesta la carrera de sistemas?",
+				"Que costo tiene la ingeniería de sistemas",
+				"Valor de la ingeniería de sistemas",
+				"valor de la carrera de ingeniería de sistemas"
+
+			],
+			"respuestas":[
+				"3634065 pesos",
+				"Su costo es de 3634065 pesos",
+				"El valor a la fecha, es de 3634065"
+		
+			]
+
+		}
+
+ ]
+	
+}
